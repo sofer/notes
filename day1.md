@@ -9,3 +9,4 @@
 1. ⌘P to open the command palette and type `git` to see all the Git commands
 
 
+Arrows: ⇧ ⬆ ⬆️
